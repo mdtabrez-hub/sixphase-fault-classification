@@ -15,7 +15,7 @@ without contacting the authors.
 
 | Archive | Content | Licence | DOI |
 |---|---|---|---|
-| This repository | solver, feature layer, classifiers, plotting | MIT | `10.5281/zenodo.CODE-ID` |
+| This repository | solver, feature layer, classifiers, plotting | MIT | [10.5281/zenodo.23434698](https://doi.org/10.5281/zenodo.23434698) |
 
 ## Quick start
 

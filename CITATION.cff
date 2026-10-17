@@ -7,10 +7,10 @@ message: >-
   the accompanying paper listed under preferred-citation.
 type: software
 version: 1.0.0
-date-released: "2026-10-17"      # <-- set to the day you cut the release
+date-released: "2026-10-17"
 license: MIT
-repository-code: "https://github.com/ACCOUNT/REPOSITORY"   # <-- fill in
-doi: "10.5281/zenodo.CODE-ID"                              # <-- fill in after release
+repository-code: "https://github.com/mdtabrez-hub/sixphase-fault-classification"
+doi: "10.5281/zenodo.23434698"
 authors:
   - family-names: Sehgal
     given-names: Bhupendra
@@ -57,5 +57,5 @@ preferred-citation:
     - family-names: Tabrez
       given-names: Md
   year: 2026
-  journal: "JOURNAL"                                     # <-- fill in
-  doi: "PAPER-DOI"                                       # <-- fill in on acceptance
+  journal: "TO BE COMPLETED ON ACCEPTANCE"
+  doi: "TO BE COMPLETED ON ACCEPTANCE"
