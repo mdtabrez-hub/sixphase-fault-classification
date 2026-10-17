@@ -1,0 +1,8 @@
+# Versions declared in Table 13 of the paper. These are the versions the
+# reported results were produced with; pin them for an exact reproduction.
+numpy==2.4.4
+scipy==1.17.1
+pandas==3.0.2
+scikit-learn==1.8.0
+matplotlib>=3.8
+# Python 3.11.15 was used for the scored run.

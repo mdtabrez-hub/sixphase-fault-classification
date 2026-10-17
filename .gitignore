@@ -1,0 +1,22 @@
+# Generated outputs -- these belong in the Zenodo data deposit, not in git.
+out/
+*.npy
+*.npz
+*.csv.gz
+
+# The frozen taxonomy IS tracked (it is an input, not an output).
+!src/taxonomy_full.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

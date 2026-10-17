@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+title: >-
+  Six-phase fault classification benchmark: solver, feature layer and
+  classifier code
+message: >-
+  If you use this software, please cite both the software (this file) and
+  the accompanying paper listed under preferred-citation.
+type: software
+version: 1.0.0
+date-released: "2026-10-17"      # <-- set to the day you cut the release
+license: MIT
+repository-code: "https://github.com/ACCOUNT/REPOSITORY"   # <-- fill in
+doi: "10.5281/zenodo.CODE-ID"                              # <-- fill in after release
+authors:
+  - family-names: Sehgal
+    given-names: Bhupendra
+    affiliation: >-
+      Department of Electrical and Electronics Engineering, Invertis
+      University, Bareilly, Uttar Pradesh, India
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <-- add if available
+  - family-names: Tiwari
+    given-names: Dinesh Kumar
+    affiliation: >-
+      Department of Electrical and Electronics Engineering, Invertis
+      University, Bareilly, Uttar Pradesh, India
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <-- add if available
+  - family-names: Bihari
+    given-names: Shiv Prakash
+    affiliation: >-
+      Department of Electrical Engineering, Samrat Ashok Rajkiya
+      Engineering College, Mirzapur, Uttar Pradesh, India
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # <-- add if available
+  - family-names: Tabrez
+    given-names: Md
+    affiliation: >-
+      Department of Electrical Engineering, Motihari College of
+      Engineering, Motihari, Bihar, India
+    orcid: "https://orcid.org/0000-0002-0829-1258"
+    email: mdtabrez2008@gmail.com
+keywords:
+  - six-phase transmission
+  - fault classification
+  - electromagnetic transient simulation
+  - sequence-modal features
+  - reproducible research
+preferred-citation:
+  type: article
+  title: >-
+    TITLE OF MANUSCRIPT B AS ACCEPTED                   # <-- fill in
+  authors:
+    - family-names: Sehgal
+      given-names: Bhupendra
+    - family-names: Tiwari
+      given-names: Dinesh Kumar
+    - family-names: Bihari
+      given-names: Shiv Prakash
+    - family-names: Tabrez
+      given-names: Md
+  year: 2026
+  journal: "JOURNAL"                                     # <-- fill in
+  doi: "PAPER-DOI"                                       # <-- fill in on acceptance
